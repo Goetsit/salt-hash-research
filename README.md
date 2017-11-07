@@ -34,3 +34,7 @@ The hash for any password of "apple" will always be represented as "B11NS".
 Adding salt might make the hash look like "!B511N3!S".
 If the salt is "unique" the values added to the hash are the salt.
 
+
+## Requirements
+
+bcrypt package installed with node
