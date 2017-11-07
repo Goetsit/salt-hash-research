@@ -1,5 +1,7 @@
 # salt-hash-research
 
+code example: https://github.com/PrimeAcademy/psp_bcrypt/blob/master/app.js
+
 ## Problems that salt/hash help to resolve:
 
 - Plain Text can be hacked easily by dictionary attacks. 
