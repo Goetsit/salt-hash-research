@@ -13,7 +13,7 @@ code example: https://github.com/PrimeAcademy/psp_bcrypt/blob/master/app.js
 - Hashing provides more protection; however, "Rainbow Table Attacks" can still access passwords.
 
 
-## Overview
+## Overview/Definitions
 
 Salt:
 
@@ -24,6 +24,10 @@ Hash:
 
 Approach to storing passwords. One way function that represents the password the user has entered.
 Hashing will always produce the same output.
+
+Rainbow Table Attack:
+
+this attack involves a pre-generated list of hash outputs/inputs that are able to be compared to hashed passwords to determine the values.
 
 Examples:
 
